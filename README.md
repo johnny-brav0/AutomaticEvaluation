@@ -12,4 +12,4 @@ A line graph showing 30 randomly selected questions and their predicted counterp
 
 ![Line Plot](./plots/random_plot.png)
 
-###**NOTE:** The data used is in un-normalized form i.e., the target scores are not in a constant range.
+### **NOTE:** The data used is in un-normalized form i.e., the target scores are not in a constant range.
